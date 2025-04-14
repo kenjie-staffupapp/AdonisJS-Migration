@@ -1,10 +1,10 @@
 ## creating migration
 
-node ace make:migration staffup_client
+node ace make:migration filename
 
 ## creating controllers
 
-node ace make:controller StaffupClient
+node ace make:controller filename
 
 ## creating models
-node ace make:models StaffupClient
+node ace make:models filename
